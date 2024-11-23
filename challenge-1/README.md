@@ -4,4 +4,5 @@ Detalles del challenge: https://www.levelup.xyz/challenges/ERC20
 
 ## Solución
 
-Contrato en Testnet: `0xd9145CCE52D386f254917e481eB44e9943F39138`
+Contrato en Testnet: `0xE457C895d0550aABEfACFd0BEdD93121fbc89BEB`
+
